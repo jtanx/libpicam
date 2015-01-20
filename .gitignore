@@ -26,3 +26,17 @@
 *.exe
 *.out
 *.app
+
+# Generated items
+bin/
+lib/
+doc/
+CMakeFiles/
+
+CMakeCache.txt
+CTestTestfile.cmake
+Makefile
+cmake_install.cmake
+install_manifest.txt
+
+tags
